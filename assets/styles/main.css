@@ -469,7 +469,7 @@ img {
     grid-column: 9/-1;
   }
 
-  .order1{
+  .order-1{
     grid-column: 1/span 4;
   }
   .order-2{
